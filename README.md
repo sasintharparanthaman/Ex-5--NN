@@ -1,4 +1,4 @@
-<H3>NAME: Sasinthar P C</H3>
+<H3>NAME: Sasinthar P</H3>
 <H3>REGISTER NUMBER: 212223230199</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE: 24-10-2025</H3>
